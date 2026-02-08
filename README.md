@@ -8,7 +8,10 @@
    + [Cortix Tech](https://cortix.tech/), Training & Certification
    + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
 
-![](notebooks/images/point-reactor-hx.png)![](notebooks/images/point-reactor-response-3.png)
+|  |
+|:--|--:|
+| <img width="350" src="notebooks/images/point-reactor-hx.png" title="Sketch"> |
+<img width="350" src="notebooks/images/point-reactor-response-3.png" title="Response"> |
 
 The goal of this training course is to present to professionals of (nuclear) chemical engineering the elements of nuclear energy conversion to (electrical) work. This is done primarily in large scale power reactors by using nuclear heat. Although there are direct ways to convert nuclear energy into electricity, the focus of this course is on the prevalent mode of energy transfer using nuclear heat.
 
