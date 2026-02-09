@@ -1,9 +1,9 @@
 # CT-410 Nuclear Reactor Engineering in Chemical Engineering
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/engy-4350/tree/master/notebooks)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-4350/master)
-![Website](https://img.shields.io/website/https/github.com/dpploy/engy-4350.svg)
-[![Size](https://img.shields.io/github/repo-size/dpploy/engy-4350)](https://github.com/dpploy/engy-4350)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/ct-410/tree/master/notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-410/master)
+![Website](https://img.shields.io/website/https/github.com/dpploy/ct-410.svg)
+[![Size](https://img.shields.io/github/repo-size/dpploy/ct-410)](https://github.com/dpploy/ct-410)
 
    + [Cortix Tech](https://cortix.tech/), Training & Certification
    + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
@@ -26,6 +26,8 @@ Python (Anaconda) programming environment for you. However once it is done, it w
 start a Jupyter Notebook server on your web browser with all notebooks listed. Upon
 clicking on individual notebook files, you will access the live course notebooks.
 + Use the green `download` button above on the right upper side of the page and download a ZIP archive to your local machine. Unzip the archive. Then use your own Jupyter Notebook server to navigate to the directory created by the unzip operation and upload the notebook files. In this case the files will not be updated and you will need to return to the repository for getting new files or updated versions of previously downloaded files.
+
+> *[Pre-requisite course](https://github.com/dpploy.com/ct-400).
 
 > *Students will profit from either taking or self-studying a [companion course](https://github.com/dpploy/ct-300) 
 > that explains many of the computational aspects of using Jupyter notebooks, Python language programming, and methods 
